@@ -3,3 +3,8 @@ title: SBSIM Docs
 description: A community-maintained SBSIM Documentation
 logo: "logo.png"
 logo_width: 300
+gems:
+  - jekyll-toc
+toc:
+    min_level: 1
+    max_level: 3
