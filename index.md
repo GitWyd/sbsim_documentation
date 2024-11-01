@@ -17,10 +17,6 @@ The **Smart Control** project is a reinforcement learning (RL) environment desig
 
 This project is ideal for researchers and developers focused on smart building technologies, energy optimization, and HVAC control using reinforcement learning.
 
-## Table of Contents
-
-{% include toc %}
-
 ---
 
 ## Key Modules and Components
