@@ -3,3 +3,5 @@ title: SBSIM Docs
 description: A community-maintained SBSIM Documentation
 logo: "logo.png"
 logo_width: 300
+plugins:
+  - jekyll-toc

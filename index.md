@@ -6,6 +6,8 @@ has_toc: true
 
 # Smart Control Project Documentation
 
+{% toc minimum_level=2 maximum_level=3 %}
+
 ## Overview
 
 The **Smart Control** project is a reinforcement learning (RL) environment designed for controlling building HVAC (Heating, Ventilation, and Air Conditioning) systems to optimize energy efficiency, cost, and occupant comfort. It provides tools and frameworks for:
