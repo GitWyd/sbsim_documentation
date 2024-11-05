@@ -1,12 +1,9 @@
 ---
 title: "Smart Control Project Documentation"
 nav_order: 1
-has_toc: true
 ---
 
 # Smart Control Project Documentation
-
-{% toc minimum_level=2 maximum_level=3 %}
 
 ## Overview
 
