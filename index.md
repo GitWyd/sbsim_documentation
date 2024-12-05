@@ -19,6 +19,7 @@ The **Smart Control** project is a reinforcement learning (RL) environment desig
 - [Environment Module](docs/environment.md)
 - [Simulation Components](docs/simulation-components.md)
 - [Reward Functions](docs/reward-functions.md)
+- [Learning Algorithms](docs/learning-algorithms.md)
 - [Configuration](docs/configuration.md)
 - [System Interaction and Architecture](docs/system-architecture.md)
 - [Contributing to the Project](docs/contributing.md)
