@@ -1,3 +1,10 @@
+---
+title: "Monte Carlo Tree Search"
+nav_order: 2
+parent: "Learning Algorithms"
+grand_parent: "Smart Control Project Documentation"
+---
+
 # Monte Carlo Tree Search
 
 MCTS is not technically an RL algorithm, but can be attempted and leveraged as a potential baseline performance metric.

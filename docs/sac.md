@@ -1,2 +1,12 @@
+---
+title: "Soft Actor Critic"
+nav_order: 3
+parent: "Learning Algorithms"
+grand_parent: "Smart Control Project Documentation"
+---
+
 # Soft Actor Critic
 Implementation of this algorithm can be found in the `SAC_Demo.ipynb` notebook.
+
+---
+[Back to Home](../index.md)

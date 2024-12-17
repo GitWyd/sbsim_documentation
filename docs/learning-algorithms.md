@@ -2,7 +2,9 @@
 title: "Learning Algorithms"
 nav_order: 2
 parent: "Smart Control Project Documentation"
+has_children: true
 ---
+
 
 # Learning Algorithms
 
