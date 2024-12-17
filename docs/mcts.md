@@ -1,6 +1,6 @@
 ---
 title: "Monte Carlo Tree Search"
-nav_order: 2
+nav_order: 1
 parent: "Learning Algorithms"
 grand_parent: "Smart Control Project Documentation"
 ---
@@ -28,3 +28,9 @@ As described above, our implementation performs many concurrent rollouts. To cho
 ## Node Evaluation
 
 Node evaluation: to evaluate a node, we consider its performance in comparison to the a baseline schedule policy. A node's score is given by the sum of the differences (when compared to the baseline policy return) of the rollout returns of all its children. To keep things fair, this is then normalized by the sum of the number of hours elapsed until the rollout end for all children. In summary, this means that each node is scored by the *average rollout return improvement per hour for all it's children*.
+
+---
+
+[Back to Learning Algorithms](learning-algorithms.md)
+
+[Back to Home](../index.md)

@@ -1,6 +1,6 @@
 ---
 title: "Additional Resources"
-nav_order: 9
+nav_order: 10
 parent: "Smart Control Project Documentation"
 ---
 

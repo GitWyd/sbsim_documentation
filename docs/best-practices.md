@@ -1,6 +1,6 @@
 ---
 title: "Best Practices"
-nav_order: 8
+nav_order: 9
 parent: "Smart Control Project Documentation"
 ---
 

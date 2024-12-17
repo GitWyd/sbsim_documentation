@@ -1,6 +1,6 @@
 ---
 title: "Contributing to the Project"
-nav_order: 7
+nav_order: 8
 parent: "Smart Control Project Documentation"
 ---
 

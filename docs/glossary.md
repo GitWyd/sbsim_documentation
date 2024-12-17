@@ -1,6 +1,6 @@
 ---
 title: "Glossary"
-nav_order: 10
+nav_order: 11
 parent: "Smart Control Project Documentation"
 ---
 
