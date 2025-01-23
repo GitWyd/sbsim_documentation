@@ -15,5 +15,6 @@ One of the goals of building a simulation environment like the one presented her
 - [Soft Actor Critic](docs/sac.md)
 - [Deep Deterministic Policy Gradient](docs/ddpg.md)
 
+
 ---
 [Back to Home](../index.md)
