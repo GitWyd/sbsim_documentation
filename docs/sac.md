@@ -6,7 +6,7 @@ grand_parent: "Smart Control Project Documentation"
 ---
 
 # Soft Actor Critic
-Implementation of this algorithm can be found in the `SAC_Demo.ipynb` notebook.
+The implementation of this algorithm can be found in the `SAC_Demo.ipynb` notebook.
 
 ---
 
