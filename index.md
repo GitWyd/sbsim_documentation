@@ -22,7 +22,6 @@ The **Smart Control** project is a reinforcement learning (RL) environment desig
 - [Learning Algorithms](docs/learning-algorithms.md)
 - [Configuration](docs/configuration.md)
 - [System Interaction and Architecture](docs/system-architecture.md)
-- [Metrics Interpretation](docs/metrics_interpretation.md)
 - [Contributing to the Project](docs/contributing.md)
 - [Best Practices](docs/best-practices.md)
 - [Additional Resources](docs/additional-resources.md)
