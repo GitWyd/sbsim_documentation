@@ -8,3 +8,4 @@ has_children: true
 # Reward Functions
 
 The reward functions define how the agent's actions are evaluated, guiding the learning process towards desired outcomes.
+----
