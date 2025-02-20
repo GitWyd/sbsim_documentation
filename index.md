@@ -11,19 +11,3 @@ Welcome to the documentation for the Smart Control project.
 ## Overview
 
 The **Smart Control** project is a reinforcement learning (RL) environment designed for controlling building HVAC (Heating, Ventilation, and Air Conditioning) systems to optimize energy efficiency, cost, and occupant comfort.
-
----
-
-## Sections
-
-- [Environment Module](docs/environment.md)
-- [Simulation Components](docs/simulation-components.md)
-- [Reward Functions](docs/reward-functions.md)
-- [Learning Algorithms](docs/learning-algorithms.md)
-- [Configuration](docs/configuration.md)
-- [System Interaction and Architecture](docs/system-architecture.md)
-- [Metrics Interpretation](docs/metrics-interpretation.md)
-- [Contributing to the Project](docs/contributing.md)
-- [Best Practices](docs/best-practices.md)
-- [Additional Resources](docs/additional-resources.md)
-- [Glossary](docs/glossary.md)
