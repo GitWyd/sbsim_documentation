@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "NaturalGasEnergyCost"
 nav_order: 5
 parent: "Reward Functions"

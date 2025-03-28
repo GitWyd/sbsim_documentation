@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Monte Carlo Tree Search"
 nav_order: 1
 parent: "Learning Algorithms"

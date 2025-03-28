@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "SetpointEnergyCarbonRewardFunction"
 nav_order: 2
 parent: "Reward Functions"

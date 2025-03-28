@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Reward Functions"
 nav_order: 4
 parent: "Smart Control Project Documentation"

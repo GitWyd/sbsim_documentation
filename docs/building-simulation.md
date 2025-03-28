@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Building Simulation"
 nav_order: 1
 parent: "Simulation Components"

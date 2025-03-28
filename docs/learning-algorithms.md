@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Learning Algorithms"
 nav_order: 5
 parent: "Smart Control Project Documentation"
