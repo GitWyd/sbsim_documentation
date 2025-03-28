@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Environment Module"
 nav_order: 2
 parent: "Smart Control Project Documentation"

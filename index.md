@@ -1,4 +1,6 @@
 ---
+layout: default # need to add this
+layout: "default"
 title: "Smart Control Project Documentation"
 nav_order: 1
 has_children: true

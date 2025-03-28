@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Glossary"
 nav_order: 12
 parent: "Smart Control Project Documentation"

@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Configuration"
 nav_order: 6
 parent: "Smart Control Project Documentation"

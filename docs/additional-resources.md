@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Additional Resources"
 nav_order: 11
 parent: "Smart Control Project Documentation"
