@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Metrics Interpretation"
 nav_order: 8
 parent: "Smart Control Project Documentation"

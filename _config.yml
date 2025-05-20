@@ -1,4 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
+# theme: just-the-docs
+layout: "default"
 title: SBSIM Docs
 description: A community-maintained SBSIM Documentation
 logo: "logo.png"

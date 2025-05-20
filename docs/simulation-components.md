@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Simulation Components"
 nav_order: 3
 parent: "Smart Control Project Documentation"

@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "ElectricityEnergyCost"
 nav_order: 4
 parent: "Reward Functions"

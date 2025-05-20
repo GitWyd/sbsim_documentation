@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Soft Actor Critic"
 nav_order: 2
 parent: "Learning Algorithms"

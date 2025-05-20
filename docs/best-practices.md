@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Best Practices"
 nav_order: 10
 parent: "Smart Control Project Documentation"

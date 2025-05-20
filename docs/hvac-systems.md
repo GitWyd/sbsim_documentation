@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "HVAC Systems"
 nav_order: 2
 parent: "Simulation Components"

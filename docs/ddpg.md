@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Deep Deterministic Policy Gradient"
 nav_order: 3
 parent: "Learning Algorithms"

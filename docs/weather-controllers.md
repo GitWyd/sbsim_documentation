@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Weather Controllers"
 nav_order: 3
 parent: "Simulation Components"
