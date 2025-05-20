@@ -13,4 +13,4 @@ and reinforcement learning.
 
 - [Getting started with Reinforcement Learning in sbsimulator](https://youtu.be/RbpkKciw0IQ)
 - [Setting Up with Data](https://youtu.be/474-33bLtAs)
-<!-- - [Basic data analysis demo](https://youtu.be/0g1r2vXk4aA) -->
+- [Basic data Modeling Demo](https://youtu.be/GOhApaDYZmE)
