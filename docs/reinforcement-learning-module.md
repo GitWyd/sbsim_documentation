@@ -20,6 +20,6 @@ smart_control/reinforcement_learning/
 └── visualization/       # Visualization tools for analysis
 ```
 
-## Key Components
+## Tutorials
 
-
+Check out this [tutorial](https://youtu.be/RbpkKciw0IQ) to help get started with the RL module.
